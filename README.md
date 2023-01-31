@@ -1,3 +1,10 @@
+
+# This repository is deprecated and not maintained or supported by MongoDB
+
+The actual repository for the `libmongocrypt-helper` gem can be found
+here -
+[https://github.com/mongodb/libmongocrypt-helper-ruby/](https://github.com/mongodb/libmongocrypt-helper-ruby/).
+
 libmongocrypt Ruby Helper
 =========================
 
